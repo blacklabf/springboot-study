@@ -1,0 +1,13 @@
+package com.around.hurb;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HurbApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
